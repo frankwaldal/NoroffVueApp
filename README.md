@@ -1,7 +1,7 @@
 # noroff-vue-app
 
-##JavaScript Frameworks MA2
-###Frank Waldal
+## JavaScript Frameworks MA2
+### Frank Waldal
 
 ### Project setup
 To install needed dependancies for this project, run this command.
