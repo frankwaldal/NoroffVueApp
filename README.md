@@ -1,4 +1,4 @@
-# noroff-vue-app
+# NoroffVueApp
 
 ## JavaScript Frameworks MA2
 ### Frank Waldal
